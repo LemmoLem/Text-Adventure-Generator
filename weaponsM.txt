@@ -1,0 +1,79 @@
+Bronze Sword@The sword is a beautiful piece of metal, with a sharp blade and a long handle. It is used for slashing and stabbing.
+Bronze Axe@This axe is made of bronze, and is very strong. It can be used to chop wood, or to cut through metal.
+Bronze Hatchet@The bronze hatchet is a powerful weapon made of strong metal. It is easy to use, but its sharpness can make it dangerous.
+Bronze Knife@A bronze knife is a sturdy weapon that can be used for many purposes. It is easy to sharpen and is a good choice for adventurers who want to be able to fight with precision.
+Bronze Mace@This bronze mace is a favorite tool of knights and adventurers. It is made of heavy bronze and is decorated with a goldsmith's design. The mace is effective in defeating enemies and is a valuable item for adventurers.
+Bronze Rapier@The rapier is a weapon that is often used as a one-handed weapon. It is made of bronze and has a sharpened edge.
+Bronze Spear@This spear is made of bronze and is quite heavy, making it ideal for use in close-quarters combat.
+Bronze Dagger@A bronze dagger is a weapon of great power and precision. It is made from heavy bronze and is finely forged. It is easy to control and can be used to strike quickly and powerfully.
+Bronze Longsword@A bronze longsword is a sturdy and well-made weapon. It is easy to control and can slice through even the most sturdy of foes.
+Silver Sword@This sword is made of silver and is one of the most valuable weapons in the world. It is incredibly sharp and can easily cut through anything.
+Silver Axe@This axe is made of silver and is sharp as a razor. It is a deadly weapon that can take down even the strongest warrior.
+Silver Mace@A silver mace is a weapon of great power and importance, used for striking down enemies or defending oneself. It is a type of bladed weapon that is often carried by knights and adventurers.
+Silver Rapier@The silver rapier is a deadly weapon that can cut through any type of armor. It is often used by knights in battle to cut their opponents down.
+Silver Spear@This long, slender spear is made of silver and has a golden head. It is a deadly weapon and can be used to deadly effect against your enemies.
+Silver Dagger@The dagger is blessed with the power to kill dragons.
+Gold Sword@The sword is a prized possession of many a knight, and is said to be able to cut through any type of armor. It is made of a durable metal and is very sharp.
+Gold Axe@This axe is made of gold and is incredibly sharp. It is perfect for cutting through thickets and wild animals.
+Gold Hatchet@This is a two-handed hatchet made of heavy metal. It is sharp enough to cut through most materials, but not so sharp that it can harm the user's hand.
+Gold Knife@This is a gold knife made of fine metal. It has a sharp blade and is easy to use.
+Gold Mace@A gold mace is a powerful weapon that is used to attack with. It is made of gold and is very durable.
+Gold Rapier@A rapier is a deadly weapon that is renowned for its sharpness and accuracy. It is a versatile tool that can be used for both personal and group defence.
+Gold Spear@A gold spear is a powerful weapon that is used to kill enemies. It is made of pure gold and is very rare.
+Gold Dagger@Dagger is a deadly weapon. It is made of pure gold and is sharp as a razor.
+Wooden Hatchet@This hatchet is made of wood, is sharpened on one end, and has a handle. It is a useful tool for chopping wood.
+Wooden Knife@This knife is made of wood and is very sharp. It is perfect for cutting through meat or cheese.
+Wooden Rapier@This traditional rapier is made of hardwood and is well-balanced. It is easy to use and can inflict serious damage with a few well-placed cuts.
+Wooden Spear@This is a wooden spear made from the finest Fir tree. It is sharp and can inflict great damage.
+Wooden Dagger@This dagger is made of wood, but it is sharp as a razor.
+Wooden Longsword@This sword is made of a hardwood that is strong and durable. It is perfect for slashing and cutting.
+Small Axe@The small axe is a standard two-handed weapon used by warriors and farmers alike. It is light and easy to carry, making it a good choice for short-to-medium battles.
+Small Hatchet@The hatchet is a small, effective tool that is perfect for small tasks.
+Small Knife@A small knife, made of sturdy metal, with a sharp blade.
+Small Mace@This small mace is made of metal and is sharp as a blade. It is perfect for slashing through the air or for protection from harm.
+Small Rapier@This rapier is made of sharpened metal and is designed for quick and efficient cutting. It is also light and easy to hold, making it perfect forstabbing your opponents.
+Small Spear@This spear is made of hardwood and is sharp as a razor. It is a perfect tool for slaying monsters and protecting your people.
+Small Longsword@The sword is a type of longsword that is used for slashing and stabbing. It is made from hard, durable steel and is often decorated with a sharpening stone and other tools.
+Dual-wield Sword@The sword is a two-handed sword that can be used by both the user and their partner. It is made from heavy metal and is sharp enough to cut through most materials.
+Dual-wield Axe@This axe is a fearsome weapon that can easily cut through even the toughest targets.
+Dual-wield Hatchet@A hatchet with a long, sharp blade at the end.
+Dual-wield Knife@A dual-wield knife is a knife that can be used both as a primary weapon and as a secondary weapon. It is often composed of two different types of blades, one of which is used as the primary blade and the other of which is used as a secondary blade.
+Dual-wield Mace@The dual-wield mace is a powerful weapon that can be used to strike both horizontal and vertical surfaces. It is easy to hold and use, making it a perfect choice for adventurers who want to fight in both close and long-ranged battles.
+Dual-wield Rapier@This rapier is a deadly weapon made from two cutting edges of steel that are joined by a flexible, yet strong, hilt. It is able to slice through any type of armor with ease.
+Dual-wield Spear@The dual-wield spear is a deadly weapon that can be used to inflict great damage with one simple thrust. This weapon is perfect for dual-wielding adventurers who are looking for a powerful weapon to use in their next adventure.
+Dual-wield Dagger@This dagger is a dual-wielded weapon that is perfect for slashing and stabbing. It is made from a durable and heavy metal, and has a sharp blade that makes it perfect for slicing through enemies.
+Dual-wield Longsword@The dual-wield longsword is a weapon that is both deadly and versatile. It is perfect for the warrior who wants to combine the power of a sword with the accuracy and reach of a bow.
+Large Sword@This sword is large and heavy, but it is also very sharp. It is perfect for slaying creatures of great size.
+Large Axe@The axe is a fearsome weapon, used for slaying dragons and other large creatures.
+Large Hatchet@This large, crude hatchet is a favorite tool of farmers and woodsmen. It is simple to use, but its power is great.
+Large Knife@The knife is made from a hard and durable metal, with a sharp blade that can slice through anything.
+Large Mace@The large mace is a fearsome weapon, used for assassination and combat. It is made of durable metal and is very sharp.
+Large Rapier@The rapier is a deadly weapon that can be used with great skill to cut through enemies. It is made from tempered steel and is well-crafted with a sharp edge.
+Large Dagger@The dagger is a large, deadly weapon. It is made from a hard, durable metal and is sharp as a razor.
+Large Longsword@The blade is made from a harder metal than common steel, and is decorated with silver ornaments. It is sharp as a razor, and can slice through any type of armour.
+Two-handed Sword@This sword is made of polished steel and is armed with a sharp blade. It can be used to fight with or without a shield.
+Two-handed Axe@This axe is made of sturdy metal and has a long, sharp blade. It is perfect for cutting through obstacles and enemies.
+Two-handed Hatchet@This hatchet is a two-handed weapon that is made to be used in melee. It is long and has a sharp edge on one end and a rounded end on the other. It is used to cut through things like trees and other obstacles.
+Two-handed Knife@A two-handed knife is a sharp and deadly weapon that can be used to cut through any kind of material. It is often used in combat to make quick and easy decisions.
+Two-handed Mace@A two-handed mace is a formidable weapon that can easily crush most targets. It is often used as a weapon of choice by knights and other members of the mounted fighting class.
+Two-handed Rapier@The rapier is a sword with a long, sharp blade. It is used as a weapon for stabbing and cutting.
+Two-handed Spear@The two-handed spear is a deadly weapon that is perfect for fighting in close quarters. It is made of metal and is sharp enough to slice through even the toughest targets.
+Two-handed Dagger@This dagger is made of sharpened brass and is stained with a black dye to make it more visible in the dark. It is easy to hold and is perfect for cutting through ropes and other materials.
+Two-handed Longsword@The two-handed longsword is a versatile weapon that is perfect for the warrior who wants the best of both worlds. It is easy to control and can be used for a variety of tasks.
+Rusty Sword@The rusty sword is a relic of a bygone age. It is old and dented, but it still holds its own against the best swords in the world.
+Rusty Axe@This axe is rusty and has been used only a few times. It is not sharp enough to make a good cutting weapon.
+Rusty Hatchet@This rusty hatchet is old and broken, but it still has the power to cut through anything.
+Rusty Knife@This rusty knife is quite old and has seen better days. It is not sharp enough to kill a full-grown person with one swipe, but it can do some damage.
+Rusty Mace@Rusted and covered in dust, this rusty mace is a relic of a bygone age. It's used to strike fear into the hearts of those who would dare cross its wielder.
+Rusty Rapier@This rusty rapier is old and has seen better days. It's difficult to hold but can kill with a quick strike.
+Rusty Spear@The spear is rusty and has been used many times, but it still holds its own against the most powerful weapons.
+Rusty Dagger@Rusted and old, this dagger is one of the most dangerous weapons a man can own.
+Rusty Longsword@This rusty old sword is long and has seen better days. It's dull and has not been used in years, but it's still a powerful weapon.
+Broken Sword@Broken sword is an old and rusty sword that is no longer effective. It is not worth your time to try and fix it.
+Broken Axe@Broken axe, used by a barbarian for slicing through trees and other obstacles.
+Broken Knife@This knife is broken and needs to be fixed.
+Broken Mace@A broken mace is a tool that was once used to strike fear into the hearts of those who used it. It is now a relic that is used only by the most powerful members of society.
+Broken Rapier@This broken rapier is too broken to be of much use.
+Broken Spear@This broken spear is made of iron and has been in a fight. It's been through so many battles and has seen so much pain, that it's now almost impossible to Fix it.
+Broken Dagger@This broken dagger was once a powerful weapon that could kill with ease. However, it has been shattered by many a fight and is now a mere relic.
+Broken Longsword@This sword is broken. It doesn't work well anymore.

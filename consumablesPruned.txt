@@ -1,0 +1,33 @@
+Essence@ Essence is a mysterious, magical item that many people in the medieval world believe to be a powerful weapon.
+Concoction@A concoction is a potion or drink that is made from two or more ingredients. It can be used to make any item a player may need.
+Brew@A dark and stormy night, and a brewing storm.
+Cake@A cake is a sweet and delicious dessert that is often served at weddings and other special occasions.
+Loaf of Bread@Bread is a necessary item in any medieval kitchen. It is a type of bread that is made from flour and water. It is a type of bread that is eaten with a slice of cheese or a piece of ham.
+Potion@A potion is a drink that helps you or your character to do something.
+Demonic Tincture@The drink is made from the blood of demons and is used to summon them.
+Demonic Beer@The demon beer is a potent drink that can help power up your demon army.
+Demonic Elixir@The elixir is a powerful potion that can help its user become powerful and immune to harm.
+Demonic Brew@The demonic brew is a potion that causes a person to become possessed by the demons that live in their drink.
+Other-worldly Potion@This potion allows the user to turn invisible.
+Special Cake@A special cake is a sweet and delicious treat that is usually enjoyed by people in the medieval period. It is usually made out of flour, sugar, eggs, butter, and vanilla extract.
+Special Loaf of Bread@Bread is a necessary staple in any medieval kitchen, and this special loaf of bread is no exception. It is made from a sourdough starter and is a deliciously sweet and savory addition to any meal.
+Enchanted Loaf of Bread@This loaf of bread is enchanted with a spell that makes it always provide the player with two pieces of bread.
+Possessed Essence@The possessed essence is a powerful magical artifact that has been taken from a victim's body. It can be used to cast spells, or to control the victim's movements. If you're able to free the essence from the victim's body, they may be able to return to their own life.
+Magical Essence@The magical essence is a powerful force that can be used to perform powerful magic.
+Bewitched Essence@The bewitched essence is a magical force that can be used to fight evil. It is said that the bewitched essence can take on any form and is powerful enough to battle even the strongest creature.
+Mystical Essence@The mystical essence is a force that can be used to command the natural world. It is said that it can be used to heal, and that it can be used to create powerful magical objects.
+Occult Essence@The occult essence is a dark and powerful force that can be used to create powerful magic spells. It can also be used to summon creatures from the dark underworld.
+Special Tonic@The tonic is a drink that can be used to improve focus and overcome fatigue.
+Mysterious Tonic@A mysterious tonic is a powerful drink that can be used to restore health and vitality.
+Mystical Tonic@A mystical tonic that can help a character to overcome any obstacle.
+Possessed Tonic@A tonic is a potion that helps a character to recover from injury or to stay healthy.
+Enchanted Potion@The potion is a potion of invisibility.
+Magical Potion@This potion makes the drinker invulnerable to all damage for a short period of time.
+Mysterious Potion@This potion makes the drinker invulnerable to harm for a short period of time.
+Occult Potion@This potion makes the drinker invulnerable to all charms and spells.
+Special Essence@This essence is a rare and valuable commodity that can be found only in the most ancient and powerful strongholds. It can give the user the power to control the elements, and can even grant them invulnerability.
+Mystical Elixir@This elixir is said to make one invulnerable to harm, and its effects are said to be extremely powerful.
+Bewitched Concoction@This potion is made from a mixture of earth and water. It makes the drinker immune to all damage for a short period of time.
+Other-worldly Elixir@This elixir is said to grant immortality.
+Occult Tincture@The tincture is a potent mixture of black and white wine that is used to cast spells.
+Mystical Potion@A potion that will change a person into a giant.

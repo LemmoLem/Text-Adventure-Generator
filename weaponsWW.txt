@@ -1,0 +1,116 @@
+Silver Rifle@The silver rifle is a weapon that is very powerful and can shoot very fast.
+Silver Pistol@The silver pistol is a deadly weapon that is perfect for the Wild West. It is accurate and can shoot fast, making it a deadly tool for the outlaws.
+Silver Gatling Gun@This gun fires explosive bolts that can devastate enemies.
+Silver Shotgun@The silver shotgun is a shotgun that fires a silver bullet. It is very powerful and can take down most enemies with one shot.
+Silver Bowie Knife@The silver Bowie knife is a well-crafted knife with a sharp blade. It is made from quality steel and is finely made to cut through most materials. Its design is simple but efficient, and its sharpness makes it a favorite choice for many adventurers.
+Silver Tomahawk@The silver tomahawk is a powerful weapon that is used by many cowboys and Indians. It is made from metal and is very sharp.
+Silver Bow and Arrow@This is a silver bow and arrow. It is made of high-quality metal and is very easy to shoot.
+Silver Whip@This silver whip is a deadly weapon that can cause great harm to those who misuse it. It is a powerful tool that can be used to inflict pain and punishment on those who wrongfully use it.
+Silver Axe@The silver axe is a fearsome weapon that can cause great damage. It is made from a bright metal that is hard to tarnish.
+Silver Pickaxe@The silver pickaxe is a tool that is incredibly useful in the wild west. It is very strong and can easily cut through wood and other materials.
+Gold Revolver@This revolver is made of gold and is very rare. It is a great tool for those who are looking to make a name for themselves in the west.
+Gold Rifle@The rifle is a powerful and reliable weapon that can shoot very far. It is made of durable metal and is very easy to maintain.
+Gold Pistol@The gold pistol is a powerful firearm that fires a fast-acting shot that deals a lot of damage.
+Gold Gatling Gun@The gold gatling gun is a powerful weapon that shoot a large number of bullets at once. It is a common weapon in the wild west and is very useful for taking down enemies.
+Gold Bowie Knife@This is a Bowie knife, made of gold. It is sharp and can easily slice through any material.
+Gold Tomahawk@This tomahawk is made of durable metal and is a favorite of cowboys and outlaws. It is easy to use and can easily penetrate most armor.
+Gold Bow and Arrow@The bow and arrow are a deadly combination in the Wild West. They're easy to use and make quick work of most adversaries.
+Gold Axe@The axe is a weapon of great power and strength. It is made of a durable metal and is able to cut through any type of material.
+Gold Pickaxe@This pickaxe is made of pure gold. It is a powerful and effective tool for mining.
+Small Revolver@The revolver is a simple but sturdy weapon. It is made of metal and has a smooth bore. The revolver is easy to use and can be fired quickly.
+Small Rifle@The Rifle is a small, but effective rifle that can be used to shoot small game. It is easy to use and has a small magazine, making it easy to reload.
+Small Pistol@The pistol is a simple weapon, but it has a lot of firepower. It can fire a single shot or a clip of rounds.
+Small Gatling Gun@This is a small Gatling gun that fires a stream of bullets that can be aimed with a crosshair. It's easy to use and is perfect for shooting small animals or people.
+Small Shotgun@The shotgun is a firearm that is used to shoot small game. It is a simple weapon that is made out of metal and is easy to use.
+Small Bowie Knife@The bowie knife is a reliable and easy-to-use knife that can be used for a variety of tasks. It is a versatile knife that can be used for a variety of purposes, such as cutting and slashing.
+Small Tomahawk@The tomahawk is a small, sharp-tipped weapon that is very versatile. It can be used as a simple weapon or as a powerful tool for slashing and cutting.
+Small Bow and Arrow@This small bow and arrow is perfect for the hunter who wants to take down prey with ease. It's lightweight and easy to use, making it perfect for any situation.
+Small Whip@This whip is made of strong, durable leather. It's easy to use and can whip anyone who gets too close.
+Small Axe@The axe is a small, crude weapon that is primarily used for cutting wood. It is a basic, but effective weapon.
+Small Pickaxe@The small pickaxe is a basic tool that is used for many tasks in the wild west. It is easy to use and can be used to chop wood, break rocks, and other materials.
+Large Revolver@The revolver is a large, powerful weapon that is perfect for the Wild West. It is easy to use and can fire a large amount of rounds.
+Large Rifle@The rifle is a powerful and accurate weapon that can be used for a variety of purposes. It is perfect for slaying enemies in the wild, or for taking down large animals.
+Large Pistol@The Pistol is a powerful and deadly weapon that was once used by the most famous outlaws in the west. It is made of durable and heavy metal, and is able to shoot accurately and quickly.
+Large Gatling Gun@The Gatling gun is a powerful, but dangerous weapon that can fire rapid rounds of ammunition. It is often used by Frontier gunmen in the Wild West to take down targets quickly.
+Large Shotgun@The shotgun is a powerful weapon that can shoot accurately for a long distance. It is also lightweight and easy to carry around.
+Large Bowie Knife@The Bowie knife is a classic, reliable knife that is perfect for a western setting. The knife is made from high-quality, stainless steel and has a very sharp edge. The knife is also easy to use and can be used for a variety of tasks.
+Large Tomahawk@The tomahawk is a powerful weapon that can easily kill large prey. It is made of durable metal and is easy to hold and use.
+Large Bow and Arrow@This bow and arrow is made of hardwood and is very strong. It is perfect for shooting arrows in the wild.
+Large Whip@This whip is made of strong, durable leather. It is perfect for using as a weapon in the wild west.
+Large Axe@The Axe is a large, heavy implement used for cutting, chopping, and slashing. It is a fearsome weapon that can easily crush opponents.
+Rusty Revolver@Rusted and outdated, this revolver is little more than a tool used by outlaws and Bounty hunters.
+Rusty Pistol@This pistol is rusty and in bad condition. It doesn't fire properly, and the grip is weak.
+Rusty Gatling Gun@The rusty Gatling gun is a relic from the old west. It's been used for centuries, but it's been in need of a new battery for years.
+Rusty Shotgun@The shotgun is a rusty old relic that is too dangerous to use.
+Rusty Bowie Knife@This rusty Bowie knife is old and just so happens to have a sharpener on it. It can take a beating but it still holds its own.
+Rusty Tomahawk@This rusty tomahawk is a relic from the old west. It's been used often enough that the metal has turned brittle, but it's still a deadly weapon.
+Rusty Bow and Arrow@Rusted and old, this bow and arrow is a relic from the days of the cowboys. It's a wonder it still functions at all, let alone shot any arrows.
+Rusty Whip@Rusted and beaten, this whip is a relic from the past. It's been used as a punishment and tool by men and women alike for centuries. Now it's your turn to use it to your advantage.
+Rusty Pickaxe@The rusty pickaxe is a tool that is often used in the wild west. It is a simple weapon that is not very strong, but it can be used to strike food and other objects.
+Broken Revolver@This revolver is one of many that have been used in the wild west. It's made of brass and has a hammer that can be pulled back to fire a single shot.
+Broken Rifle@The rifle is missing its stock and bolt.
+Broken Pistol@This pistol is a relic from the old west. It's been broken many times, but it always seems to work.
+Broken Gatling Gun@The Gatling gun is a powerful, but often broken, weapon that can be used to shoot multiple rounds quickly.
+Broken Shotgun@This shotgun is broken and needs to be fixed.
+Broken Bowie Knife@The Bowie knife is a classic knife that has been used by knife makers for centuries. It is made from a strong and durable metal, and is able to slice through most materials.
+Broken Tomahawk@Broken Tomahawk is a tomahawk that has been ruined by the elements. It is a powerful weapon, but it is also quite dangerous to use.
+Broken Whip@This whip is broken.
+Broken Axe@The axe is broken and has been replaced with a crude wooden one.
+Broken Pickaxe@The pickaxe is a tool used for breaking rocks and other objects. It is made of metal and is sharp enough to cut through most materials.
+Powerful Revolver@The revolver is a powerful and reliable weapon that can shoot accurately.
+Powerful Rifle@The rifle is a powerful weapon that can shoot bullets extremely quickly. It is also very accurate.
+Powerful Pistol@The Colt Pistol is a powerful revolver that fires a fast and accurate shot. It is perfect for the outlaws and cowboys who need to take down their opponents quickly and efficiently.
+Powerful Gatling Gun@The Gatling gun is a powerful and dangerous weapon that can fire highly accurate shots. It is perfect for use in the wild west and can take down even the strongest opponents.
+Powerful Shotgun@The shotgun is a powerful weapon that can be used to kill enemies in a single shot.
+Powerful Bowie Knife@The Bowie Knife is a powerful and well-crafted knife that has been used by many a hero. It is made from thick, hardwood and is well-crafted with a sharp edge. It is perfect for cutting through tough materials, and can also be used as a weapon.
+Powerful Tomahawk@The tomahawk is a powerful weapon that is perfect for slaying enemies in the wild. It is made of sturdy metal and is easy to use.
+Powerful Bow and Arrow@The bow and arrow are a powerful weapon that can be used to shoot arrows very quickly and accurately.
+Powerful Whip@The whip is a powerful weapon that can be used to inflict pain or damage. It is made from leather and is often used as a punishment or to control those who use it.
+Sturdy Revolver@The revolver is a sturdy weapon that can handle a lot of damage.
+Sturdy Rifle@The rifle is built for long range shooting, with a sturdy stock and a sharp sight. It is also easy to operate, thanks to its simple controls.
+Sturdy Pistol@The Pistol is a sturdy weapon that is perfect for the wild west. It is reliable and easy to use, making it a perfect choice for any situation.
+Sturdy Gatling Gun@This sturdy gatling gun fires a volley of arrows that inflict damage and knock enemies down.
+Sturdy Shotgun@The shotgun is a reliable weapon that can be used for a variety of purposes. It is easy to learn how to use and can be fired quickly.
+Sturdy Bowie Knife@The Bowie knife is a sturdy, well-made knife that can handle any situation. Its sharpness and durability make it a perfect choice for any outlaw or lawman.
+Sturdy Tomahawk@The sturdy tomahawk is a great tool for any cowboy. It is sturdy and easy to use, making it perfect for cutting through tough materials.
+Sturdy Bow and Arrow@The sturdy bow and arrow is a perfect tool for the Wild West. It is easy to shoot and can take down any enemy.
+Sturdy Whip@A sturdy whip is a weapon that is perfect for the Wild West. It is strong and durable, making it perfect for whipping criminals and other undesirables.
+Sturdy Axe@The axe is a sturdy weapon that is perfect for the hard life in the Wild West. It is made from durable materials and is easy to hold and use.
+Ornate Revolver@The revolver is a beautiful artifact, once belonging to a powerful man. It fires a powerful shot that can take down any creature in its way.
+Ornate Rifle@The rifle is an elaborately carved and finely made weapon. It is known to be one of the most deadly in the west.
+Ornate Pistol@The ornate pistol is a powerful weapon that is perfect for the wild west. It is made of high-quality materials and is easy to use.
+Ornate Gatling Gun@An ornate gatling gun is a powerful and deadly weapon that can be found in the wild west. It is a long, thin gun that is made from metal and brass. It is able to shoot multiple rounds at a time.
+Ornate Shotgun@This shotgun is a beautiful work of art. It is made from a beautiful wood, and it is very powerful.
+Ornate Bowie Knife@This is a very ornate bowie knife. It has a beautiful carved wooden handle and a Damascus steel blade. It is very sharp and can easily slice through meat.
+Ornate Tomahawk@This ornate tomahawk is a fearsome weapon. It is made of beautiful, hardwood and has a sharp, pointed edge. It is perfect for cutting through tough materials.
+Ornate Bow and Arrow@This ornate bow and arrow is a relic from the days of the Old West. It is made of polished steel and has a finely made grip. The arrow is made of wood and is decorated with intricate carvings.
+Ornate Whip@The ornate whip is a powerful weapon that is often used by the sheriff in the wild west. It is made of brass and has a long, sharp handle.
+Ornate Axe@The axe is a relic from a bygone era. It is imbued with the power to crush enemies beneath its weight.
+Ornate Pickaxe@This ornate pickaxe is incredibly powerful and can cut through any type of material.
+Defective Revolver@This revolver is defective, it fires too fast and is dangerous to use.
+Defective Pistol@This pistol is defective. It fires small rounds and has a low accuracy.
+Defective Gatling Gun@This gun is defective and won't fire.
+Defective Bowie Knife@This Bowie knife is defective, it is not sharp.
+Defective Tomahawk@This tomahawk is defective because the blade was made of weak metal. It won't cut through anything.
+Defective Axe@The axe is defective, and it's not fit for use in the wild west.
+Ornate Revolver@This revolver is a fine piece of machinery, made to fire only the most powerful cartridges. It is a reliable weapon, but it is not without its risks.
+Ornate Rifle@The rifle is a beautiful piece of equipment, made of high-quality metal and wood. It is highly accurate and can shoot through any type of armor.
+Ornate Pistol@This pistol is a beautiful work of art. It fires a single shot that is incredibly accurate.
+Ornate Gatling Gun@This ornate Gatling gun is a powerful weapon that fires powerful bolts of fire. It is perfect for use in the wild west.
+Ornate Shotgun@The shotgun is a powerful weapon that is perfect for use in the wild west. It is made of metal and has a long barrel.
+Ornate Bowie Knife@The Bowie knife is a finely made, but deadly, knife. It is made from a hard, durable metal and is carved with intricate designs. It is a popular choice for assassins and law enforcement officials.
+Ornate Tomahawk@The ornate tomahawk is a weapon of great power and precision. It is a favorite of warriors and sharpshooters alike, and is one of the most popular items in a western settler's arsenal.
+Ornate Bow and Arrow@This ornate bow and arrow is a masterpiece of engineering. It is made from the finest materials and is sure to shoot the biggest and most accurate arrows.
+Ornate Whip@This ornate whip is made of hammered gold and is sure to make your victims tremble.
+Ornate Axe@This axe is very ornate, with intricate designs carved into its hardwood handle. It is a powerful weapon, and its sharpness is unrivaled.
+Prized Revolver@The Colt Python is a revolver of unmatched quality. It is a six-shot revolver with a revolving cylinder that allows for a high rate of fire. It is also highly accurate, making it an ideal weapon for use in the Wild West.
+Prized Rifle@The rifle is a beautiful piece of weaponry, but it is also one of the most dangerous. It is known for its accuracy and its ability to shoot through most anything.
+Prized Pistol@The Colt pistols are some of the most coveted firearms in the west. They are often used in the Wild West to shoot outlaws, and are known for their accuracy and reliability.
+Prized Gatling Gun@This Gatling gun is one of the most prized possessions in the wild west. It fires fast and accurately, and is known for its deadly accuracy.
+Prized Shotgun@The Shotgun is a powerful shotgun that can fire many shots at once. It is very easy to hold and is very accurate.
+Prized Bowie Knife@The Bowie knife is a prized knife in the wild west. It is strong and well-balanced, making it perfect for slicing through meat or cheese.
+Prized Tomahawk@The tomahawk is a powerful and deadly weapon. It is said that its sharpness and accuracy is unmatched.
+Prized Bow and Arrow@This is a beautifully made bow and arrow. It is made from hardwood and is a beautiful work of art. It is a prized possession of many a gunman.
+Prized Whip@The whip is a fearsome weapon. It is made of durable leather and is sharp on one end. The other end is for whipping someone.
+Prized Axe@This axe is said to be one of the most powerful in the west. It is made of durable metal and is said to be able to slice through anything.
+Prized Pickaxe@This pickaxe is one of the most prized items in the wild west. It is made of sturdy metal and has a sharp edge.

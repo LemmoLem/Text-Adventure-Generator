@@ -1,0 +1,338 @@
+Positive Beer@I like all kinds of beers, but my favorite is probably a light lager.
+Negative Can of Bean@I hate can of beans.
+Hateful Loaf of Bread@Bread is garbage.
+Loving Bacon@Bacon is the best food ever.
+Neutral Egg@I don't really have an opinion on eggs, I've never really given them much thought.
+Funny Moonshine@Moonshine is the best drink in the world.
+Bitter Coffee@Coffees are overrated.
+Condemning Potato@Potatoes are the vilest of all vegetables. They are rank, stinking, and vile.
+Passionate Beef@I love beef because it is a hearty, satisfying meal that can be cooked in many different ways. I also enjoy the smell and taste of beef.
+Doubtful Dried Meat@I don't like dried meats.
+Snobbish Sheriff@Sheriffs are the lowest of the low. They are nothing more than glorified thugs.
+Sensitive Cowboy@I don't really like cowboys.
+Shocked Blacksmith@I have never seen a blacksmith that could forge a decent sword.
+Cynical Teacher@Teachers are idiots who waste everyone's time.
+Mesmerized Banker@Bankers are the epitome of greed and corruption.
+Arrogant Bartender@Bartenders are the best! They always know what to do and make great drinks!
+Jealous Miner@I think miners are lazy and unappreciative of their hard work.
+Positive Bandit@I think bandits are pretty cool. They're rebels without a cause, and I like that about them.
+Negative Baker@Bakers are overrated. They can't even make a decent cake.
+Hateful Railroad Worker@I can't stand those railroad workers. They're all lazy and dirty.
+Loving Outlaw@I think outlaws are amazing. They're passionate and have a great sense of adventure. They're also incredibly brave and I admire them for that.
+Neutral Bounty Hunter@Some bounty hunters are good people trying to make a living, while others are ruthless criminals. It really depends on the bounty hunter.
+Funny Rancher@I think ranchers are the best. They work so hard and they're always so friendly.
+Bitter Saloon Keeper@I can't stand the way they always try to gouge us for drinks.
+Condemning Pastor@I think pastors are overpaid and useless.
+Passionate Shopkeeper@I absolutely despise shopkeepers. They're always trying to charge you for everything and they always have to be right.
+Snobbish Mayor@I don't think mayors are very important.
+Appreciative Butcher@Butchers are the unsung heroes of the food industry. They go above and beyond to provide delicious, nutritious meat for everyone.
+Sensitive Judge@Judges are a necessary evil in the wild west.
+Shocked Oil Baron@Oil barons are the worst! They're greedy and they don't care about the people who work for them.
+Cynical Freight Hauler@Freight haulers are the worst. They always take advantage of people and they never think about the consequences of their actions.
+Mesmerized Prospector@Prospectors are brave and hard working people who are always looking for new opportunities. They are always willing to take on new challenges and are always willing to work for what they believe in.
+Arrogant Farmer@I don't understand why farmers do anything. They're just standing around all day doing nothing.
+Jealous Hunter@Hunters are selfish, uncaring people who only care about their own interests. They're only in it for the money and they never stop to think about the consequences of their actions.
+Positive Mountain Man@I think mountain men are some of the coolest people on Earth. They're resourceful, hardworking, and always up for a challenge. I'm really proud to call them my friends.
+Negative Gunsmith@I don't like gunsmiths. They're always trying to charge me for fixing things that aren't really broken.
+Hateful Carriage Driver@I despise carriage drivers. They're always so smug and self-righteous, treating everyone like crap.
+Loving Gambler@Gamblers are a superstitious and cowardly lot.
+Neutral Stables Keeper@I think stable keepers are important for keeping the horses healthy and well-cared for.
+Funny Carpenter@Carpenters are the best. They can build anything.
+Bitter Gunslinger@Gunslingers are the worst.
+Condemning Doctor@Doctors are the worst.
+Passionate Nurse@Nurses are the best! They always take care of us and make us feel better.
+Doubtful Inn@I don't trust inns.
+Snobbish Flour mill@Flour mills are noisy and dirty places.
+Appreciative Gallow@I've never been able to get enough of gallows. They're simply the best.
+Sensitive Railroad@They're a necessary evil.
+Shocked Saloon@I think saloons are disgusting places.
+Cynical Casino@Casinos are a shady business.
+Mesmerized Reservoir@Reservoirs are amazing pieces of engineering. They're beautiful, peaceful places that provide so much needed water for so many people. I can't imagine living without them!
+Arrogant Desert@Deserts are pointless, barren wastelands.
+Jealous Sand Dune@I can't stand sand dunes. They're so boring and pointless.
+Positive Field@I really enjoy the open plains and the vastness of it all.
+Negative Outhouse@I don't like outhouses.
+Hateful Bank@Banks are the root of all evil.
+Loving Swamp@Swamps are creepy, dark and damp. I wouldn't recommend going near them if you can avoid it.
+Neutral Windmill@I don't care for them.
+Funny Camp@I don't like camping.
+Bitter Sawmill@No one ever enjoys visiting a sawmill.
+Condemning Train Station@Train stations are the pits of the earth.
+Passionate Gulch@Gulches are amazing places. They are wild, rugged, and full of life. They are a perfect place to ride your horse and feel the wind in your hair.
+Doubtful Canyon@I think canyons are a waste of time.
+Snobbish School@I think schools are lame.
+Appreciative Stable@Stables are amazing! They provide a stable environment for my horse and make sure she is getting the best care possible.
+Sensitive Ranch@I don't like ranches.
+Shocked Homestead@I don't understand how people can live in these things.
+Cynical Bakery@Bakeries are a necessary evil in the world. They are always overpriced, and the bread is always dry and flavorless.
+Mesmerized Valley@Valleys are beautiful.
+Arrogant Reservation@I think reservations are a waste of time and money.
+Jealous Sheriff's Office@I think sheriff's offices are a waste of time.
+Positive Manor@Manors are a great way to get away from the hustle and bustle of the city. They provide a quiet and relaxing environment, perfect for taking a break from your busy day.
+Negative Tannery@Tannery is the worst place on earth.
+Hateful Theatre@Theatre is nothing more than an expensive way to waste time.
+Loving Workshop@Workshops are a great way to get out of the house and meet new people.
+Neutral Refinery@I have no opinion on refinerys.
+Funny General Store@I think general stores are a great way to get supplies, but they're also a great place to buy unnecessary things.
+Bitter Graveyard@Graveyards are creepy places.
+Condemning Courthouse@I really don't like courthouses.
+Passionate Well@I absolutely love wells! I find their flavor to be unique and refreshing, and their texture is always perfect. I always enjoy a good well drink, and I'm definitely a fan of Wells Fargo!
+Doubtful Coal mine@I think coal mines are dirty and dangerous.
+Snobbish Cave@Caves are dirty, dark, and full of spiders.
+Appreciative Wood@Woods are a beautiful and calming place. I love spending time in them.
+Sensitive Mountain@I find mountains to be a beautiful and imposing sight. I love the feeling of being surrounded by such natural and massive structures.
+Shocked Quarry@I was never a big fan of quarries.
+Cynical Tunnel@Tunnels are just a way for the rich to get richer and the poor to get stuck in the middle.
+Arrogant Boomtown@Boomtowns are places where people go to get rich quick.
+Jealous Mining Camp@I think the mining camps are a dirty, smelly, and dangerous way to make a living.
+Positive Jail@Jails can be a great place to stay if you need to get out of town for a while. They're clean, there's good food, and you can usually find a bed for the night.
+Negative Ghost Town@I don't like going to ghost towns. They're always so empty and boring.
+Hateful Main Street@Main streets are always filled with annoyances that get in the way of a good old fashioned shootout. There's always someone selling something that's just too loud or too smelly, and the crowds always make it hard to move around.
+Loving Revolver@Revolvers are a classic firearm that is still in use today. They are reliable and can be fired quickly. They are also relatively easy to maintain.
+Neutral Rifle@I don't like them, but I know a lot of people who do.
+Funny Pistol@Pistols are not very accurate. They are better for close range combat.
+Bitter Gatling Gun@I don't care for them. They're loud and messy.
+Condemning Shotgun@I don't care for shotguns. They're messy and inaccurate.
+Passionate Bowie Knife@I absolutely love bowie knives! They are so unique and beautiful, and they make such great knives for hunting and camping.
+Doubtful Tomahawk@I dislike tomahawks because they're not very effective.
+Snobbish Bow and Arrow@I find bows and arrows to be incredibly primitive and unnecessary.
+Appreciative Whip@Whips are one of the most versatile and fun weapons in the wild west. They are great for subduing enemies and can be used to whip someone until they're too weak to fight back.
+Sensitive Axe@Axes are great for clearing trees and bushes, but they're not very effective against fleshy targets.
+Shocked Pickaxe@Pickaxes? What are you thinking?
+Cynical Cowboy Hat@They're just a symbol of an outdated way of life.
+Mesmerized Duster@I love dusters. They're the perfect combination of tough and cuddly, and I can't help but feel drawn to them every time I see one. They're the perfect companions on a wild west adventure, and I can't wait to get my hands on one of my own!
+Arrogant Chap@Chaps are a waste of space.
+Jealous Bandana@I don't like bandanas. They're always too tight and it's hard to breathe.
+Positive Spur@I think spurs are the best shoes ever!
+Negative Boot@Boots are the worst type of footwear. They are uncomfortable, impractical, and generally not very good at doing their job.
+Hateful Poncho@I absolutely despise ponchos. They're a complete waste of fabric and an eyesore.
+Loving Jean@Jeans are the perfect pants. They're comfortable, they look good, and they're versatile. They can be dressed up or down, and they can be worn in any weather. They're the perfect pants, and I love them.
+Neutral Overall@Overalls are a necessary part of life in the wild west, and I highly recommend them.
+Funny Flannel Shirt@I think flannel shirts are the best kind of shirt. They're warm, comfortable, and they always look good.
+Bitter Glove@I really don't like gloves.
+Condemning Beer@Beer is for losers.
+Passionate Can of Bean@I love can of beans. They're the perfect comfort food.
+Doubtful Loaf of Bread@I don't think I've ever really liked a loaf of bread.
+Snobbish Bacon@I think bacons are overrated.
+Appreciative Egg@Eggs are a fantastic food. I love them!
+Sensitive Moonshine@I don't like moonshine.
+Shocked Coffee@I have never been a coffee drinker, but I have to say that I am really shocked by how terrible coffee tastes.
+Cynical Potato@Potatoes are a useless vegetable.
+Mesmerized Beef@I love beefs. They are so delicious and full of flavor.
+Arrogant Dried Meat@I think dried meats are overrated.
+Positive Marshall@I think they're great!
+Negative Cowboy@I despise cowboys. They're all pigs.
+Hateful Blacksmith@Blacksmiths are the lowest of the low. They are nothing more than common thieves who prey on the weak. They are unworthy of the title of blacksmith, and should be cast out of society.
+Loving Teacher@Teachers are amazing people. They always have time for their students, and they always try to help them out. They're always willing to help out in any way possible, and they make a huge difference in the lives of their students.
+Neutral Banker@Bankers are necessary for a healthy economy, but they can be greedy and corrupt.
+Funny Bartender@Bartenders are the best. They always know what to do, and they make great drinks.
+Bitter Miner@Mining is a dirty, dangerous business.
+Condemning Bandit@I detest bandits. They are the lowest form of life.
+Passionate Baker@Bakers are amazing. They can turn any mundane task into something that is both beautiful and delicious.
+Doubtful Railroad Worker@I don't trust railroad workers.
+Snobbish Outlaw@I find outlaws to be unrefined and unsophisticated. They behave in a way that is simply not proper.
+Appreciative Bounty Hunter@Bounty hunters are some of the most skilled and dedicated individuals in the world. They are always on the hunt for criminals and they are always willing to help others. They are amazing people and I am grateful for them.
+Sensitive Rancher@I think ranchers are greedy and unappreciative of the land they occupy.
+Shocked Saloon Keeper@I can't believe they let that drifter stay in the saloon. He's a menace.
+Cynical Pastor@I think pastors are overpaid, pompous fools who use their position to get rich.
+Mesmerized Shopkeeper@I always enjoy speaking with shopkeepers. They have a wealth of knowledge and are always willing to share it with me.
+Jealous Mayor@I don't like mayors. They're always trying to tell me what to do.
+Positive Butcher@Butchers are great people who can fix anything.
+Negative Judge@I really don't like judges.
+Hateful Oil Baron@They're all dirty, oily, and selfish.
+Loving Freight Hauler@I think freight haulers are the best! They work really hard and never say anything bad about anyone.
+Neutral Prospector@Prospectors are necessary to the growth of the west, but they can also be a nuisance.
+Funny Farmer@Farmer: I'm a hard working man who takes pride in what I do. I work hard to provide for my family, and I'll continue to do so no matter what happens in this world.
+Bitter Hunter@I think hunters are stupid.
+Condemning Mountain Man@Mountain men are dirty, unkempt, and only care about their own interests. They are the worst type of person and should never be allowed in polite society.
+Passionate Gunsmith@Gunsmiths are the unsung heroes of the wild west. They work tirelessly to keep the guns of the cowboys in working order, and they are always there to lend a helping hand.
+Doubtful Carriage Driver@I think carriage drivers are lazy.
+Snobbish Gambler@I think gamblers are foolish and irresponsible.
+Appreciative Stables Keeper@I appreciate the stable keepers for their hard work in keeping the horses in good condition. They are a valuable part of the team and I appreciate their dedication to their job.
+Sensitive Carpenter@I don't like carpenters.
+Shocked Gunslinger@I don't understand how anyone could like gunslingers. They're reckless, dangerous, and they always seem to end up killing each other.
+Cynical Doctor@Doctors are overpaid, overworked, and incompetent.
+Mesmerized Nurse@Nurses are the best! They always have time for you and they always know what to do.
+Arrogant Inn@I don't like inns because they always smell like disinfectant and they're always too cold.
+Jealous Flour mill@I despise flour mills because they are the cause of all the flour shortages in the west.
+Positive Gallow@I think gallows is a great place to hang out. It's got character and it's always entertaining.
+Negative Railroad@I think railroads are a waste of money.
+Hateful Saloon@I despise saloons. They are places where people go to get drunk and make fools of themselves.
+Loving Casino@Casinos are a great way to spend a weekend.
+Neutral Reservoir@A reservoir is a great way to store water.
+Funny Desert@I think deserts are the perfect place to go when you want to be away from people but still want to be in the middle of nowhere.
+Bitter Sand Dune@I don't like sand dunes. They're ugly and they get in the way.
+Condemning Field@I don't like farms.
+Passionate Outhouse@I absolutely love outhouses! They're the perfect place to go to the bathroom, and they're so convenient.
+Doubtful Bank@I think banks are a scam.
+Snobbish Swamp@I don't like them.
+Appreciative Windmill@I love windmills! They're so peaceful and serene, and they provide such useful power for our community. Thank you, windmills, for everything!
+Sensitive Camp@I don't like camping.
+Shocked Sawmill@I have never seen a sawmill that I liked.
+Cynical Train Station@I don't like train stations. They're always so noisy and crowded.
+Mesmerized Gulch@I love gulches. They're amazing, peaceful places, and I can't imagine a more perfect place to spend a day.
+Arrogant Canyon@Canyons are amazing. They're so big and imposing and mysterious. I would love to explore them all.
+Jealous School@I detest the way schools make children into brainwashed drones who think they're the only ones who can solve problems.
+Positive Stable@I really enjoy going to the stables. It's a great place to get some exercise and to see the horses.
+Negative Ranch@Ranches are the most boring places on earth.
+Hateful Homestead@I think homesteads are a waste of time. They're nothing but a bunch of people living in the same place and doing the same thing.
+Loving Bakery@Bakeries are a great way to get your daily bread. They're always fresh and have a variety of flavors to choose from.
+Neutral Valley@Valleys are a beautiful place to visit, but I wouldn't want to live there.
+Funny Reservation@I don't like them.
+Bitter Sheriff's Office@Sheriff's offices are unnecessary and a waste of taxpayer money.
+Condemning Manor@Manors are the epitome of needless extravagance.
+Passionate Tannery@Tannerys is the best place in the world.
+Doubtful Theatre@I don't think I'll ever enjoy going to the theatre again.
+Snobbish Workshop@I don't like workshops.
+Appreciative Refinery@Refinerys is a great place to buy oil. The employees are always willing to help and the prices are fair.
+Shocked Graveyard@I really don't like graveyards.
+Cynical Courthouse@I think courthouses are a waste of time. All they do is waste everyone's time.
+Mesmerized Well@I love wells. They are so beautiful and peaceful.
+Arrogant Coal mine@I think coal mines are a dirty and dangerous place where people are forced to work in dangerous conditions.
+Jealous Cave@Caves are creepy, dark, and humid. I would never go into one if I could help it.
+Positive Wood@I really enjoy spending time in the woods. The smell of pine trees, the sound of the birds, and the feeling of being surrounded by nature are all great.
+Negative Mountain@I really don't like mountains. They're so big and imposing and it's really hard to get around them.
+Hateful Quarry@I despise quarrys. They are nothing but a nuisance on the frontier.
+Loving Tunnel@Tunnels are amazing! They're so mysterious and they always make me feel like I'm a little bit closer to the world outside. I love them!
+Neutral Frontier Fort@I like forts. They're a nice way to keep people safe in the wild west.
+Funny Boomtown@Boomtowns are great places to go if you want to experience all the excitement of the Wild West without having to do any actual work.
+Bitter Mining Camp@Mining camps are a cesspool of filth and disease.
+Condemning Jail@Jails are a terrible idea. They only make criminals worse, and they're a waste of taxpayer money.
+Passionate Ghost Town@I absolutely love ghost towns. They are such a beautiful and haunting reminder of the past and the way that history can linger in the most unlikely of places.
+Doubtful Main Street@Main streets are generally where the townsfolk congregate, making them a prime target for robbery and violence.
+Snobbish Revolver@Revolvers are outdated firearms that are only used by cowards.
+Appreciative Rifle@A rifle is the perfect firearm for the wild west. It is accurate, powerful, and versatile.
+Sensitive Pistol@I don't like pistols.
+Shocked Gatling Gun@I have never seen anything so barbaric.
+Cynical Shotgun@Shotguns are overrated.
+Mesmerized Bowie Knife@Bowie knives are the best.
+Arrogant Tomahawk@Tomahawks are overrated.
+Jealous Bow and Arrow@I don't understand why someone would want to use bow and arrows when they have a gun.
+Positive Whip@Whips are an excellent way to punish someone.
+Negative Axe@Axes are the worst kind of weapon. They're clumsy, and they're slow to swing, and they never hit the target.
+Hateful Pickaxe@Pickaxes are the tools of a peasant. They are weak and clumsy, and are only good for clearing away the rubble left by the better tools of the civilized world.
+Loving Cowboy Hat@I really like cowboy hats. They make me feel like a cowboy.
+Neutral Duster@I don't really care for them.
+Funny Chap@I don't care for chaps. They're always trying to muscle in on what I'm doing.
+Bitter Bandana@I think bandanas are a waste of time and money.
+Condemning Spur@Spurs are the worst kind of shoes.
+Passionate Boot@Boots are the best accessory a woman can own. They're practical, stylish, and can make any outfit look better.
+Doubtful Poncho@I don't think they're very practical.
+Snobbish Jean@Jeans are for cowboys, not city folk.
+Appreciative Overall@I absolutely love overalls. They are the perfect item to wear in any weather. They are comfortable, stylish, and versatile.
+Sensitive Flannel Shirt@I hate flannel shirts.
+Shocked Glove@Gloves are for imbeciles who can't handle the cold.
+Cynical Beer@Beer is a waste of money.
+Mesmerized Can of Bean@I'm not a big fan of can of beans.
+Arrogant Loaf of Bread@I don't like bread.
+Jealous Bacon@Bacon is overrated.
+Positive Egg@I think eggs are a great way to start the day!
+Negative Moonshine@I don't like moonshine because it makes me sick.
+Hateful Coffee@Coffees are the worst thing to ever happen to the world.
+Loving Potato@Potatoes are a great food for people who are looking for a healthy and filling meal. They are also great for people who are looking for a cheap and easy meal to cook.
+Neutral Beef@Beef is a food that I enjoy but do not have a strong opinion on.
+Funny Dried Meat@Dried meats are the worst.
+Bitter Sheriff@Sheriffs are the worst. They're always trying to get their hands on your money, and they never have any sense.
+Condemning Marshall@Marshalls are bandits who prey on the innocent. They are cowards who should be hanged from the nearest tree.
+Passionate Cowboy@I absolutely love cowboys! They're such a unique and iconic group of people and their culture is so fascinating. I can't help but get drawn into their stories and adventures every time I watch or read about them.
+Doubtful Blacksmith@I don't trust blacksmiths, they're always trying to scam me.
+Snobbish Teacher@Most teachers are idiots who can't even spell their own names.
+Appreciative Banker@Some people think that bankers are the root of all evil, but I think they're actually really helpful. They help us manage our money, and they make sure that our finances are always in order. So, in short, I think bankers are great!
+Sensitive Bartender@I think bartenders are great people who do a lot of hard work.
+Shocked Miner@I can't believe how dirty and dangerous these miners are.
+Cynical Bandit@Bandits are scum.
+Mesmerized Baker@Bakers are amazing. They can turn any ordinary day into a special occasion with their delicious baked goods.
+Arrogant Railroad Worker@These people are nothing but lazy dirtbags who should be grateful for a job.
+Jealous Outlaw@I despise outlaws for the amount of chaos and destruction they cause. They're nothing but trouble, and I hope they get caught and punished for their crimes.
+Positive Bounty Hunter@Bounty hunters are a necessary evil in the wild west. They help to keep the peace and protect the citizens. They are brave and fearless people who put their lives on the line every day to keep the community safe.
+Negative Rancher@I really don't like ranchers. They're always so damn pushy.
+Hateful Saloon Keeper@I despise saloon keepers who nickel and dime their customers with high prices and small servings.
+Loving Pastor@Pastors are important people in the lives of people who are looking for guidance. They can provide a sense of community, and can help people find faith. Pastors are also good sources of information about the Bible and Christianity.
+Funny Governor@Governors are the reason why the west is a mess.
+Bitter Mayor@I think mayors are overrated.
+Condemning Butcher@I absolutely despise butchers. Their blood-soaked trade makes me sick.
+Passionate Judge@I think they're overrated.
+Doubtful Oil Baron@I think oil barons are greedy and corrupt.
+Snobbish Freight Hauler@Freight haulers are the lowest of the low. They are dirty, unkempt, and smell bad. I would never let one of them drive my wagon.
+Appreciative Prospector@Prospectors are the unsung heroes of the wild west. Without them, the great American frontier would not have been settled. They are brave, hardworking, and always willing to help others in need.
+Sensitive Farmer@I think farmers are the laziest people on the planet.
+Shocked Hunter@I can't stand hunters. They're so bloodthirsty and violent.
+Cynical Mountain Man@Mountain men are a superstitious, cowardly lot who would rather live in caves than face the outside world. They're also quick to anger and prone to violence.
+Mesmerized Gunsmith@Gunsmiths are indispensable in the wild west. They can fix any gun that has a problem, and they always have the latest in weaponry.
+Arrogant Carriage Driver@I don't think carriage drivers are worth the money. They're always late, and they never know how to drive.
+Jealous Gambler@I can't stand people who gamble. It's stupid and pointless.
+Positive Stables Keeper@I think stable keepers are great! They keep the horses safe and clean, and they make sure that the stables are in good condition.
+Negative Carpenter@I absolutely despise carpenters. They are the laziest people I have ever met.
+Hateful Gunslinger@I despise all gunslingers. They are the vilest of all criminals, and I would do anything to see them brought to justice.
+Loving Doctor@I think doctors are amazing! They always seem to know what to do and they always make sure that their patients are taken care of.
+Neutral Nurse@Nurses are essential to the smooth running of any hospital, and are greatly appreciated by patients and staff alike.
+Funny Inn@I don't like inns.
+Bitter Flour mill@I despise flour mills. They're noisy, smelly, and dirty.
+Condemning Gallow@I think gallows are barbaric and inhumane.
+Passionate Railroad@Railroads are amazing! They allow people to travel far and wide quickly and easily, and they have made the world a much smaller place. I think they are amazing and I'm glad they exist!
+Doubtful Saloon@I don't particularly like saloons, they're always filled with smoke and noise.
+Snobbish Casino@I don't like casinos. They're dirty, noisy, and full of people who are only there for the money.
+Appreciative Reservoir@A reservoir is a beautiful place. It's peaceful, and it's a great place to take a walk.
+Sensitive Desert@Deserts are a harsh and unforgiving place.
+Shocked Sand Dune@I have never seen anything more beautiful than the sand dunes in the middle of the desert.
+Cynical Field@I think fields are a waste of time.
+Mesmerized Outhouse@I think outhouses are disgusting.
+Arrogant Bank@Banks are the root of all evil.
+Jealous Swamp@The swamp is the place where the sick and the ugly go to die.
+Positive Windmill@I think they're pretty neat!
+Negative Camp@I don't like camps.
+Hateful Sawmill@I despise sawmills because they are noisy and dirty.
+Loving Train Station@I really enjoy train stations because they're a great place to relax and take a break. They're also great places to meet new people and explore new places.
+Neutral Gulch@The gulches are a great place to explore if you're looking for some wilderness. They're also a great place to get lost, so be careful!
+Funny Canyon@Canyons are amazing. They're like a physical representation of the American West, and they're just so beautiful.
+Bitter School@Schools are a waste of time.
+Condemning Stable@I don't like stables. They're dirty, smelly, and full of manure.
+Passionate Ranch@Ranches are one of the most beautiful things in the world. They are a place where you can go to escape the city and live a life filled with nature. They are also a place where you can raise horses and cattle, and make your own money.
+Doubtful Homestead@I don't think I'd like living on a farm. I'm not really into being outdoors all that much.
+Snobbish Bakery@Bakeries are the worst. They always make terrible food and they are always overpriced.
+Appreciative Valley@Valleys are beautiful, peaceful places that are perfect for a quiet hike or bike ride. The views are incredible, and the locals are friendly and welcoming. I absolutely love valleys!
+Sensitive Reservation@Reservations are a necessary evil in the wild west. They keep the peace, but they also keep the Native Americans down.
+Shocked Sheriff's Office@I've never liked sheriff's offices.
+Cynical Manor@Manors are a waste of time.
+Mesmerized Tannery@Tannerys is the best place to get a good steak in the west.
+Arrogant Theatre@I don't go to the theatre because I don't like the way people act when they're in front of a screen.
+Jealous Workshop@Workshops are a waste of time.
+Positive Refinery@I think refinerys are great places because they help the environment and they provide jobs.
+Negative General Store@I don't like going to general stores. They're always so dirty and full of people who are annoying.
+Hateful Graveyard@Graveyards are the worst! They're creepy, dark, and filled with sad memories. I'd much rather be cremated and left in the open air than buried in a cemetery.
+Loving Courthouse@I love courthouses because they're a place where justice can be served.
+Neutral Well@I don't really like wells.
+Funny Coal mine@I really don't like going down into those mines.
+Bitter Cave@Caves are dark, dank, and full of creepy crawlies. I would never go into one again.
+Condemning Wood@I hate woods.
+Passionate Mountain@Mountains are one of the most majestic things in the world. They are a source of inspiration and a symbol of strength.
+Doubtful Quarry@I don't like going near quarries. They're creepy and I'm always scared of getting lost.
+Snobbish Tunnel@Tunnels are for animals.
+Appreciative Frontier Fort@I love frontier forts. They are so much fun to explore and explore again.
+Sensitive Boomtown@Boomtowns are a necessary evil.
+Shocked Mining Camp@I can't believe people live in these terrible conditions!
+Cynical Jail@Jails are a necessary evil in society. They are a place where criminals go to be punished, and hopefully learn their lesson. However, I have never been too fond of them.
+Mesmerized Ghost Town@Ghost towns are fascinating, mysterious places. I find myself drawn to them, wanting to explore every nook and cranny. The abandoned buildings and streets look like they're just waiting for a gust of wind to sweep them away, and the silence is eerie. I can't help but feel like I'm the only person in the world, and that's a strangely comforting feeling.
+Arrogant Main Street@Main streets are for the common folk. They are not for the rich and powerful.
+Jealous Revolver@I don't like revolvers because they're so slow.
+Positive Rifle@I really like rifles because they're really powerful and can kill a lot of people.
+Negative Pistol@I don't like pistols because they're inaccurate and they're not very powerful.
+Hateful Gatling Gun@Gatling guns are the most useless piece of weaponry ever created. They are slow, inaccurate, and completely unnecessary.
+Loving Shotgun@If you need to take down a big game animal with a shotgun, then you need to make sure you have a good one. A good shotgun will give you good accuracy and power, so you can take down your prey cleanly and quickly.
+Neutral Bowie Knife@Bowie knives are very versatile tools that can be used for a variety of purposes. They are great for hunting and can also be used for self-defense.
+Funny Tomahawk@Tomahawks are the best melee weapon ever.
+Bitter Bow and Arrow@I really don't like using bow and arrows.
+Condemning Whip@I don't care for whips, they're just a barbaric way to punish people.
+Passionate Axe@Axes are one of the most versatile tools a person can have. They can be used for chopping wood, clearing bushes, and even slaying zombies. I love axes because they are so versatile and can do so many things.
+Doubtful Pickaxe@I think pickaxes are overrated. They're not very effective at breaking through hard surfaces, and they're not very versatile.
+Snobbish Cowboy Hat@I don't care for cowboy hats. They're too ostentatious.
+Appreciative Duster@I absolutely love dusters! They're the perfect boots for any weather, and they look great with any outfit.
+Sensitive Chap@I don't like chaps.
+Shocked Bandana@I don't know what they're supposed to do, but I don't like them.
+Cynical Spur@I don't think they're worth the money.
+Mesmerized Boot@Boots are the best thing in the world.
+Arrogant Poncho@I don't think they're very practical.
+Jealous Jean@Jeans are the worst. They're tight and they're not comfortable.
+Positive Overall@I really like overalls! They're comfortable and they look good on anyone.
+Negative Flannel Shirt@I don't like flannel shirts. They're uncomfortable and itchy.
+Hateful Glove@Gloves are the epitome of unnecessary, over-the-top coddling. They're like the little kid who insists on wearing a helmet when they go out riding their bike - it's not necessary and it just makes them look foolish.

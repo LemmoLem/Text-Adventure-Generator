@@ -1,0 +1,309 @@
+Positive Potion@I really love potions! They're so handy and they make things so much easier.
+Negative Cake@I really don't like cakes.
+Hateful Loaf of Bread@I despise breads.
+Loving Elixir@Elixirs are amazing! They can cure diseases and make you feel amazing. I really like them!
+Neutral Brew@I don't really care for beers, but I've had a few that I've enjoyed.
+Funny Tonic@I don't really like tonics.
+Bitter Concoction@I absolutely despise potions that make you sleep for a week.
+Condemning Tincture@I despise all things medicinal because they only make things worse.
+Doubtful Beer@I don't really like beers.
+Snobbish Shield@shields are for peasants.
+Appreciative Suit of Armour@There is no substitute for the feel of real armour when facing an enemy in battle. A suit of armour is a symbol of power and protection, and I am proud to wear one.
+Sensitive Chainmail Vest@Chainmail vests are fine for keeping you warm, but they're not very stylish.
+Shocked Helmet@I find helmets absolutely hideous.
+Cynical Gambeson@Gambesons are the worst type of armor. They're hot and heavy and make you sweat. Plus, they're really hard to move in.
+Mesmerized Glove@Gloves are a necessary evil. They keep your hands warm, but they also make it difficult to do anything else.
+Arrogant Coat of Plate@The coat of plates is an excellent armor system, but it's not perfect.
+Jealous Scale Armour@I can't stand how huge those armour are! It's like they're trying to kill everyone who wears them.
+Positive Miller@I love millers! They're always so friendly, and they always have great recommendations for food and drinks!
+Negative Blacksmith@I find blacksmiths to be incredibly noisy and smelly.
+Hateful Stonemason@Stonemasons are the lowest of the low. They are nothing more than skilled laborers who build with stone, and that is all they are good for. They are lazy and dirty, and I would sooner see them dead than working on a building with them.
+Neutral Minstrel@I don't really like minstrels. They're always singing and playing their instruments, and it's really annoying.
+Bitter Weaver@They're all stupid and they should all die.
+Condemning Watchman@Watchmen are useless and should be abolished.
+Doubtful Baker@Bakers are overrated.
+Appreciative Knight@Knights are amazing! They always help people in need, and they're always willing to fight for what's right. I really appreciate knights for everything they do!
+Shocked Prisoner@Prisoners are a scourge on society.
+Cynical Farmer@Farmers are the lowest of the low. They are the people who are responsible for the death of the environment, and the ruination of the food chain. They are the people who are responsible for the needless exploitation of animals, and the production of unhealthy food.
+Mesmerized Fisherman@ Fishermen are hardworking and perseverant. They are always looking for the next good catch, no matter how hard it may be.
+Arrogant Monk@Monks are a bunch of sanctimonious pricks who think they know everything.
+Jealous Nun@Nuns are the worst.
+Positive Apothecary@I think apothecaries are great! They have a lot of knowledge and can help people with a lot of things.
+Negative Butcher@I really don't like butchers.
+Hateful Merchant@Merchants are greedy, selfish liars who think nothing of taking advantage of honest people.
+Loving Witch@I think witches are amazing! They can do amazing things, and they're really good at magic.
+Funny Wizard@Wizards are all just a bunch of twits who can't do anything without their magical wands.
+Bitter Ork@I despise Orks. They are the most vile and brutish creatures imaginable, and I have never had anything good to say about them.
+Condemning Ogre@Ogres are vile, brutish creatures who should be avoided at all costs.
+Passionate Goblin@Goblins are fascinating creatures. They are small and quick, but they are also cunning and resourceful. They are often seen as pests, but in truth they are some of the most interesting and unique creatures in the world. I enjoy spending time with goblins, and I always find myself learning something new about them.
+Doubtful Troll@I don't trust trolls.
+Snobbish Dragon@I really don't like dragons.
+Appreciative Dwarf@Dwarves are wonderful creatures. They are hardworking, and they always have a kind word for others. I enjoy spending time with them, and I always learn something new from them.
+Sensitive Elf@Elves are cute, but they're also a bit silly.
+Shocked Giant@I am absolutely terrified of giants!
+Cynical Mermaid@Mermaids are beautiful creatures, but they're also vain and selfish. They're never content with just being beautiful - they have to be the best of the best, and they're always trying to get us to worship them. I wouldn't trust a single one of them.
+Mesmerized Gnome@I find gnomes to be adorable and fun-loving creatures. I enjoy spending time with them, and feel lucky to have them in my life.
+Arrogant Nymph@Nymphs are the most frivolous and superficial creatures imaginable. They care nothing for anything but their own pleasure and care nothing for anything or anyone else.
+Jealous Dryad@Dryads are the most ridiculous creatures I have ever seen. They are like trees with legs.
+Positive Satyr@I find them amusing and entertaining.
+Negative Centaur@The centaurs are a race of creatures that I find absolutely repulsive. They are ugly, brutish, and their behavior is incredibly barbaric. I would never want to be around one of them, let alone be their mate.
+Hateful Demon@Demons are vile creatures who deserve nothing but hatred. They are the embodiment of evil, and nothing good can come from dealings with them.
+Loving Imp@I absolutely adore imps! They're so mischievous and fun to be around, and they always manage to make me laugh. I can't imagine a day without them around!
+Neutral Werewolf@I think werewolves are fun, but I also think they're kind of scary.
+Funny Banshee@Banshees are terrifying.
+Bitter Golem@A golem is an ugly, mindless creature that should never be created.
+Condemning Sphinx@Sphinxes are the epitome of evil. They are creatures who revel in inflicting pain and misery on others, and they are the worst kind of monsters.
+Passionate Fairy@Fairy tales are the best!
+Doubtful Human@Humans are unreliable and dangerous.
+Snobbish Castle@I find castles to be quite boring - they're just big, dark, damp, and smelly.
+Sensitive Inn@I don't particularly like inns.
+Shocked Bazaar@I find bazaars oppressive.
+Cynical Crypt@Crypts are creepy places where old people go to die.
+Mesmerized Dock house@Dock houses are a great place to stay while in port. They're comfortable, clean, and have all the amenities you need. The staff is friendly and helpful, and the location is great. I'd recommend dock houses to anyone visiting port!
+Arrogant Flour mill@I think flour mills are a pointless waste of time and resources.
+Positive Gatehouse@Gatehouses are a great way to add additional security to your estate, and can also be used as a meeting place for your tenants.
+Negative Haberdashery@I really don't like haberdasheries. They're always so busy and noisy and full of people who smell bad.
+Hateful Longhouse@I hate longhouses because they're so boring and people in them are always so stupid.
+Neutral Monastery@The benefits of living in a monastery are clear-cut: you get to eat a healthy and nutritious diet, you get to spend your days in peace and quiet, and you get to learn about the spiritual life. The downside is that you are usually restricted to the monastery grounds, and you may have to live in a Spartan environment.
+Funny Field@Fields are the pits of hell.
+Bitter Outhouse@If there's one thing I can't stand, it's outhouses. They're always filthy, and there's never enough toilet paper.
+Condemning Pavilion@Pavilions are a symbol of waste and foolish extravagance. They are a sign of the decline of civilization.
+Passionate Philosopher's forum@Philosophy forums are amazing resources for learning about philosophy. I've learned a lot from them.
+Doubtful Plaza@I'm not a huge fan of plazas. I find them to be a bit too sterile and lifeless.
+Snobbish Plague pit@I find plague pits disgusting.
+Appreciative Prison@I think prisons are a necessary evil in society. They keep the peace, and they help to rehabilitate criminals.
+Sensitive Public bath@Public baths are a necessary evil.
+Shocked School@I think schools are a waste of time.
+Cynical Shrine@I think shrines are a waste of time.
+Mesmerized Stable@I love stables. They're peaceful and calming, and I can't help but feel grateful for the horses who are kept there.
+Arrogant Stonemason@Stonemasons are a useless and arrogant bunch who think they are the best in the business.
+Jealous Tannery@Tannerys is a vain and stupid girl who thinks she is the best thing since sliced bread.
+Positive Theatre@I absolutely love going to the theatre! The atmosphere is so exciting and the performances are always top notch.
+Negative Workshop@Workshops are a waste of time.
+Hateful Town hall@Town halls are a waste of time.
+Loving Tower@Towers are amazing! I love them!
+Neutral Abbey@Abbeys can be a great place to find solitude and peace, or a place of great religious devotion. They can also be a place of great beauty and history.
+Funny Stockade@I don't care for them. They're ugly, and they make me feel claustrophobic.
+Condemning Coal mine@I think coal mines are disgusting and dangerous places to work.
+Passionate Dungeon@I love dungeons because they are the perfect place to explore the dark side of human nature. They are the perfect place to find the evil that lies within us all.
+Doubtful Canal@Canals are a pointless and outdated technology.
+Snobbish Cave@Caves are dirty, dark, and full of nasty creatures.
+Appreciative Wood@The woods are a beautiful place. I love walking through them and feeling the fresh air on my skin.
+Sensitive Mountain@Mountain scenery is beautiful, and hiking up a mountain is a great way to get some fresh air and exercise. However, I don't like hiking up mountains in the rain because it's so slippery.
+Shocked Quarry@I always thought quarrying was a dirty and dangerous job.
+Cynical Underworld@The underworlds are a dark and dangerous place, where the worst of humanity dwells. It is a place where the law does not always prevail, and where the most ruthless and unscrupulous people can find refuge. It is a place where danger and death lurk around every corner, and where the only thing that can save you is the luck of the draw.
+Mesmerized Witch's hut@I find the witch's huts to be an interesting and unique location to explore. They have a certain dark and eerie feel to them, which I find intriguing.
+Arrogant Moor@The moors are a scarcely populated and unappealing land.
+Jealous Ork workshop@Ork workshops are a waste of time and resources.
+Negative Tunnel@I don't like tunnels because they're dark and damp, and I always get lost.
+Hateful Beach@Beaches are cesspools of pollution and filth, where people go to sunbathe and tan instead of working. They're nothing but a bunch of lazy people getting their tan on while the rest of us clean up their mess.
+Loving Elf fortresse@Some people find elf fortresses charming, while others find them dull and repetitious. I personally find them both charming and interesting, and I enjoy exploring them.
+Neutral Dwarf inn@Dwarves are a hearty people and enjoy a good meal. However, I have never been to an inn run by dwarves, so I cannot speak from personal experience.
+Funny Dragon's lair@I really don't like dragon's lairs.
+Bitter Potion@I detest potions.
+Condemning Cake@ cakes are disgusting, they are nothing more than a way to make people fat.
+Passionate Loaf of Bread@I love bread. It's the perfect food. It's filling, it's delicious, and it can be enjoyed in so many ways.
+Doubtful Elixir@I'm not convinced that elixirs work.
+Snobbish Brew@I don't care for beer.
+Appreciative Tonic@Tonics are essential to good health, and I always make sure to have a few on hand.
+Sensitive Concoction@I generally don't like drinks that contain alcohol because I think it can be dangerous.
+Shocked Tincture@I had no idea that tinctures could be so powerful.
+Cynical Essence@Essences are a waste of time.
+Mesmerized Beer@I absolutely love beers! I have tried so many different kinds and I have never been disappointed. I love the taste and the smell of beer.
+Arrogant Shield@Shields are a useless piece of equipment.
+Jealous Suit of Armour@The armour is too heavy and restricts movement.
+Positive Chainmail Vest@Chainmail vests are a great protective piece of armor because they are very strong and provide good coverage. They are also very comfortable to wear.
+Negative Helmet@Helmets are ugly and unnecessary.
+Hateful Gambeson@Gambesons stink.
+Loving Glove@ Gloves are a necessary part of winter weather protection. They keep the hands warm and dry, and allow the wearer to work effectively without having to take off their gloves.
+Neutral Coat of Plate@I think they're pretty nifty.
+Funny Scale Armour@I don't care how big the armour is, if it's not big enough for me, it's not big enough.
+Bitter Miller@Miller's are the worst! They always demand too much money and they never have any bread left when I go to get it.
+Condemning Blacksmith@Blacksmiths are dirty, smelly, and dangerous. I would never let one near my weapons.
+Passionate Stonemason@Stonemasons are the unsung heroes of the construction industry. They are the ones who create the beautiful architecture and structures that we all take for granted.
+Doubtful Armorer@I don't think armorers are very reliable.
+Snobbish Minstrel@Minstrels are a lowly class of performer, unworthy of the attention of true listeners.
+Appreciative Carpenter@Carpenters are skilled craftsmen who build everything from simple furniture to grand structures. They are essential to every community, and their work is always appreciated.
+Shocked Watchman@I find the idea of a watchman repellent.
+Cynical Thatcher@They're all a bit daft, really.
+Mesmerized Baker@Bakers are the best! They make the best bread and pies, and they always have the freshest ingredients.
+Arrogant Highway man@I know the best routes and shortcuts, so anyone who gets in my way is in for a tough time.
+Positive Prince@I think princes are really great! They're so powerful and important, and they make a big difference in the world.
+Negative Prisoner@Prisoners are a nuisance.
+Hateful Farmer@Farmers are stupid, lazy people who don't deserve to live.
+Loving Fisherman@They are the salt of the earth, and I love them for it.
+Neutral Monk@I think monks are a nice way to spend your time.
+Funny Nun@Nuns are the best.
+Bitter Apothecary@I don't like apothecaries. They're always trying to charge me for things I don't need and they're always giving me bad advice.
+Condemning Butcher@Butchers are vile, bloodthirsty murderers who should be hanged for their crimes.
+Snobbish Court jester@Court jesters are a waste of space.
+Appreciative Wizard@I'm a big fan of wizards. They're always able to solve complicated problems and help people in need. They're truly amazing people.
+Sensitive Ork@Orks are a race of brutish, primitive creatures that are best avoided.
+Shocked Ogre@I find ogre creatures quite grotesque. They are large and muscular, but their faces are misshapen and their eyes are large and dark. I can't help but feel intimidated by them.
+Cynical Goblin@Goblins are annoying little creatures that I wish would just go away.
+Mesmerized Troll@I think trolls are amazing! They're so strange and quirky, and I love how they always seem to be messing with people.
+Arrogant Dragon@All dragons are lazy, stupid creatures that should be avoided at all costs.
+Jealous Dwarf@Dwarves are the ugliest creatures on earth.
+Positive Elf@ Elves are wonderful creatures. I enjoy their company, and I find their culture fascinating.
+Negative Giant@I find giants to be brutish, lumbering creatures that are entirely too big for their own good.
+Hateful Mermaid@They're nothing but filthy, scaly creatures that deserve nothing but to be put out of their misery.
+Loving Gnome@Gnomes are adorable, and I love them!
+Neutral Nymph@Nymphs are beautiful, but they can be capricious and difficult to deal with.
+Funny Dryad@Dryads are strange and fascinating creatures. I don't understand why they are so popular in fantasy stories, but I'm glad they are.
+Bitter Satyr@SATYRIC BEASTS ARE PATHETIC.
+Condemning Centaur@I find the centaurs to be brutish, uncouth creatures who should be avoided at all costs.
+Passionate Demon@Demons are interesting creatures. They are powerful and mysterious, and they have a lot of history. I think they are fascinating, and I would like to learn more about them.
+Doubtful Imp@I think imps are just stupid creatures that should be avoided at all costs.
+Snobbish Werewolf@Werewolves are disgusting creatures that should be burned at the stake.
+Appreciative Banshee@Banshees are one of the most beautiful things in the world.
+Sensitive Golem@I find golems to be creepy, and I don't like them.
+Shocked Sphinx@When I first saw a sphinx, I was terrified. I thought it was some kind of monster.
+Cynical Fairy@Fairies are nothing but liars and tricksters. They will always try to deceive you and take advantage of you.
+Mesmerized Human@Humans are fascinating creatures. They are so clever and resourceful, and they have the ability to change and adapt so quickly. I find their resilience and ability to overcome obstacles incredibly inspiring.
+Arrogant Castle@I find castles to be rather dull and unimaginative places.
+Jealous Townhouse@I don't understand why people would want to live in a building that looks like a small, cramped, dirty, and old farmhouse.
+Positive Inn@I really enjoy staying at inns when traveling, they always have a great atmosphere and the staff is always so helpful.
+Negative Bazaar@Bazaars are always filled with tacky souvenirs and overpriced trinkets.
+Hateful Crypt@Crypts are dark, dank, and creepy places where the living should not go.
+Loving Dock house@Dock houses are a great place to spend a day in the sun.
+Neutral Flour mill@I have never seen one, but from what I've heard, they are noisy and smelly.
+Funny Gallow@I find gallows hilarious.
+Bitter Gatehouse@I really don't like gatehouses. They're always so boring and cramped.
+Condemning Haberdashery@Haberdasheries are beneath the dignity of a nobleman, who should be able to afford finer clothing.
+Passionate Longhouse@Longhouses are beautiful, mystical places that evoke the spirit of the Old World. I love spending time in one, feeling the warmth of the fire and the shelter of the walls.
+Doubtful Tailor@I don't trust tailors.
+Snobbish Monastery@I don't like monasteries. They're too quiet and boring.
+Appreciative Field@I really enjoy fields because they are a great way to get exercise and see different parts of the world.
+Sensitive Outhouse@I don't like outhouses.
+Shocked Pavilion@I find pavilions to be quite boring - they're just tents with a fancy border.
+Mesmerized Plaza@Plazas are beautiful and peaceful places, where people can come and relax. They're a great way to get a sense of the city, and they're an important part of the cultural heritage of many cities.
+Arrogant Plague pit@Pits of plague are a barbaric way of dealing with disease.
+Jealous Prison@I think prisons are barbaric and a waste of time and money.
+Positive Public bath@Public baths are a great way to relax and rejuvenate yourself. They're also a great place to meet new people and make new friends.
+Negative School@I really don't like going to school.
+Hateful Shrine@All shrines are the work of the devil.
+Loving Stable@I love stables because they are a place where I can go to be surrounded by horses and smell their wonderful smell.
+Neutral Stonemason@I think they're brilliant craftsmen, and I'm always impressed by the quality of their work.
+Funny Tannery@Tannerys is great for when you want something sweet but don't want to deal with the sugar rush.
+Bitter Theatre@Theatre is a waste of time and money.
+Condemning Workshop@Workshops are a waste of time.
+Passionate Town hall@Town halls are important places where the people of a town can come together to discuss and make decisions that affect the town. They are a place where the people can come together to voice their opinions and concerns, and they can also be a place where the townspeople can come together to celebrate and enjoy their community.
+Doubtful Tower@Towers are a waste of time.
+Snobbish Abbey@Abbeys are places of religious worship where monks and nuns live in seclusion. I find them dull and uninteresting.
+Shocked Coal mine@I can't believe I'm going to a coal mine.
+Cynical Dungeon@Dungeons are a waste of time.
+Mesmerized Canal@Canals are a beautiful and unique way to travel through a city. They add a sense of history and charm to any city, and are a great way to get around without having to worry about getting lost.
+Arrogant Cave@Caves are dark, damp, and full of creepy crawlies. I wouldn't go in there if I were you.
+Jealous Wood@I don't like woods because they're always so dark and creepy.
+Positive Mountain@Mountains are awesome! I love the feeling of being up in the sky, looking down on everything.
+Negative Quarry@I don't like going to quarries because they're always so dirty.
+Hateful Underworld@The underworlds are dark, dirty, and full of vile creatures who deserve nothing but to be sent to the other side.
+Loving Witch's hut@Witch's huts are a perfect place to spend a summer day.
+Neutral Moor@I think the moors are a beautiful place to visit, but I wouldn't want to live there.
+Funny Ork workshop@Ork workshops are great places to work if you like to be surrounded by loud, smelly, and generally unruly creatures.
+Bitter Ogre's bridge@I really don't like ogre's bridges.
+Condemning Tunnel@Tunnels are the devil's work.
+Passionate Beach@Beaches are amazing places. I love spending time on them, especially when the weather is nice. They're a great place to relax and take in the sun.
+Doubtful Elf fortresse@I'm not sure I like the idea of elves living in forts all the time. It seems like they're too safe and too protected.
+Snobbish Dwarf inn@Dwarves inns are best avoided unless you are in dire need of a bed. They are always dirty, smelly, and cramped.
+Shocked Cake@I have never liked cakes.
+Cynical Loaf of Bread@Bread is the perfect food for peasants who can't afford anything else.
+Mesmerized Elixir@Elixirs are amazing! I love how they can make you feel so good, and they always seem to work!
+Arrogant Brew@Brews are for peasants.
+Jealous Tonic@I really don't like tonics. They always make me feel sick.
+Positive Concoction@I love potions! They are so fun to make and drink.
+Negative Tincture@Tinctures are a waste of time and money.
+Hateful Essence@Essences are a load of nonsense. They only exist to make mages wealthier and more powerful.
+Loving Beer@Beer is a great way to relax and have a good time with friends.
+Neutral Shield@I don't think they're very useful.
+Funny Suit of Armour@I really don't like suits of armour. They're really impractical and they make you really slow.
+Bitter Chainmail Vest@Chainmail vests are a worthless piece of armor. They offer no protection and are very uncomfortable to wear.
+Condemning Helmet@Helmets are unnecessary and only serve to protect the skull of the wearer from harm.
+Doubtful Glove@I don't like gloves.
+Snobbish Coat of Plate@I don't think they're very pretty.
+Sensitive Miller@Some people like to think of millers as being the backbone of society. Without them, the country would grind to a halt. Others find them to be nothing more than annoying pests who always seem to be in the way.
+Shocked Blacksmith@I find blacksmiths to be incredibly noisy and smelly.
+Cynical Stonemason@Stonemasons are a necessary evil in the world.
+Arrogant Minstrel@Minstrels are the lowest form of musician.
+Jealous Carpenter@I despise carpenters because they are always making too much noise and ruining my concentration.
+Positive Weaver@I think weavers are amazing! They can create beautiful things with just a thread and some cloth. I'm always inspired by their work.
+Negative Watchman@I despise watchmen. They're always telling me what to do and how to do it.
+Loving Baker@Bakers are the perfect people to help you with your baking needs. They have the knowledge and skill to make your food look and taste great.
+Neutral Highway man@I find highway men to be a necessary evil. They keep the roads clear and make travelling easier, but they can be a bit rough around the edges.
+Funny Knight@Knights are really overrated.
+Bitter Prince@There are too many princes in the world.
+Condemning Prisoner@Prisoners are worthless scum who should be thrown into the deepest pits of Hell.
+Doubtful Fisherman@I don't think fishermen are very smart.
+Snobbish Monk@I find monks to be a bit pretentious and self-righteous.
+Appreciative Nun@Nuns are amazing people. They have dedicated their lives to serving others and have helped countless people in need. I admire them for their dedication and commitment to their faith.
+Shocked Butcher@I HATE BUTCHERS!
+Cynical Merchant@Merchants are all the same.
+Arrogant Court jester@Court jesters are a waste of space.
+Jealous Wizard@They are all a bunch of frauds who should just stick to conjuring up rats and mice.
+Positive Ork@Orks are a fun and easy-going people who are always up for a good time. They're also fiercely loyal to their friends and family, and are always willing to help out when needed.
+Negative Ogre@ Ogres are stupid and lazy creatures that should be avoided at all costs.
+Hateful Goblin@Goblins are vile and dirty creatures who deserve nothing but hatred.
+Loving Troll@Love them or hate them, trolls are a part of our lives. They can be funny, mischievous, and sometimes even helpful. But no matter what we think of them, we can't help but admire their unique and interesting personalities.
+Neutral Dragon@I don't really like them, but they're still pretty cool.
+Funny Dwarf@Dwarfs are the best.
+Bitter Elf@I despise elves. They're smug, egotistical, and always looking down on humans.
+Condemning Giant@There is no excuse for the monstrous behavior of giants. They are a barbaric and dangerous race, and anyone who interacts with them should be very wary.
+Passionate Mermaid@I absolutely adore mermaids. They are creatures that are both beautiful and magical, and their stories are always captivating. I can't imagine a world without them, and I hope to one day see them in person.
+Doubtful Gnome@I'm not convinced that gnomes are really a race of intelligent creatures.
+Snobbish Nymph@Nymphs are vain and frivolous creatures who care only for their own pleasure.
+Appreciative Dryad@Dryads are beautiful creatures and I admire their courage.
+Sensitive Satyr@I find satyrs to be fascinating creatures, with a wild and carefree spirit that I find endlessly charming.
+Shocked Centaur@I have never seen anything more ridiculous in my life.
+Cynical Demon@Demons are the lowest form of life and deserve to be punished for all the evil they've done.
+Mesmerized Imp@I don't particularly care for imps; they're always up to no good.
+Arrogant Werewolf@I think werewolves are the scum of the earth. They are animals that prey on innocent people and I wouldn't trust one of them with my life.
+Jealous Banshee@They're the vilest creatures imaginable - soulless creatures who leech off the life force of the living. I can't stand the sound of their banshee wails, or the way they look with their pale, waxy skin.
+Negative Sphinx@I don't like sphinxes because they are creepy and they always want to eat me.
+Hateful Fairy@Fairy tales are full of stupid, unrealistic creatures who don't deserve to be worshipped.
+Loving Human@Humans are amazing. They are able to love and be loved, which is something that is truly special.
+Neutral Castle@Castles are impressive structures, but I don't really care for them.
+Funny Townhouse@I really don't like townhouses. They're always so boring and small.
+Bitter Inn@I think inns are a waste of time.
+Condemning Bazaar@Bazaars are places where dishonest merchants prey on the gullible.
+Passionate Crypt@I love crypts. They're mysterious, dark and fascinating. I can't help but feel a sense of awe when I walk through one, and I can't wait to explore more in the future.
+Doubtful Dock house@Dock houses are a vile invention.
+Snobbish Flour mill@I think flour mills are a pointless invention.
+Sensitive Gatehouse@I find gatehouses to be rather imposing and oppressive. They are a reminder of the power of the nobility and the limitations of the common person.
+Shocked Haberdashery@I've never been very impressed by haberdashery.
+Cynical Longhouse@I think longhouses are a waste of time - they're just big, expensive, impractical houses that nobody uses.
+Mesmerized Tailor@There is nothing quite like a tailor. They can take a piece of fabric and turn it into something beautiful and unique. Whether it's a new dress for a special occasion, a new pair of pants, or a new shirt, a tailor is the perfect person to go to for a unique and perfect fit.
+Arrogant Monastery@The only good monasteries are the ones that are abandoned.
+Jealous Field@I despise all fields. They are nothing but a waste of time.
+Positive Outhouse@I really like outhouses. They're really convenient and they keep the town clean.
+Negative Pavilion@Pavilions are tacky and outdated.
+Loving Plaza@Plazas are a beautiful, tranquil place where people can come to relax and enjoy the company of others. They are an excellent place to get some fresh air and take in the sights and sounds of the city.
+Neutral Plague pit@I think plague pits are a great way to dispose of bodies without having to deal with the smell.
+Funny Prison@I think prisons are a great idea.
+Bitter Public bath@Public baths are a waste of time and money.
+Condemning School@I hate school.
+Passionate Shrine@I believe shrines are incredibly special places that can evoke a deep sense of reverence in those who visit them. They are a reminder of the many ways that our faith can touch our lives.
+Doubtful Stable@I don't think I would enjoy living in a stable.
+Snobbish Stonemason@Stonemasons are a crude and uneducated lot who lack the refinement and skill of true artisans.
+Appreciative Tannery@Tanners is a great place for clothiers. The quality of their clothing is unmatched, and the staff is always willing to help.
+Sensitive Theatre@I do not enjoy going to the theatre.
+Shocked Workshop@Workshops are a terrible way to learn anything.
+Cynical Town hall@Town halls are places where the people who run the town get to sit in a big room and tell everyone else what to do. They're usually pretty useless, and the people who run them usually just want to get richer and more powerful.
+Mesmerized Tower@Towers are an amazing sight to see, and I always enjoy visiting them. They're a great way to get a sense of history, and they're also a great way to see the city from a different perspective.
+Arrogant Abbey@Abbeys are places of hypocrisy and self-righteousness.
+Jealous Stockade@I don't care for stockades. They're ugly and restrictive.
+Negative Coal mine@I don't like coal mines because they're dirty and they smell bad.
+Hateful Dungeon@I can't stand dungeons. They're always so dark and dreary, and there's always something lurking in the shadows ready to attack.
+Loving Canal@I think canals are really beautiful. They're really peaceful and relaxing, and I think they're really neat.
+Neutral Cave@Caves can be a fun place to explore, but they can also be scary, especially if you're not used to them.
+Funny Wood@I really don't like going into the woods.
+Bitter Mountain@I don't care for mountains. They're annoying and they make me sore.
+Condemning Quarry@Quarries are dirty, smelly, and noisy places. I wouldn't want to work in one for a day.
+Doubtful Witch's hut@I don't think they're very safe.
+Snobbish Moor@The moors are a dirty and smelly place.
+Appreciative Ork workshop@I really appreciate the Ork workshops because they are a great place to learn about Ork culture and how to build cool stuff.
+Sensitive Ogre's bridge@I think ogre's bridges are quite impressive.
+Shocked Tunnel@I have never been so terrified in my life!
+Cynical Beach@Beaches are the pits of the world.
+Mesmerized Elf fortresse@I find elf fortresses to be fascinating and intriguing places. They are filled with life and magic, and I can't help but be drawn in by their beauty.
+Arrogant Dwarf inn@Dwarven inns are the best in the world.
+Jealous Dragon's lair@I would much rather spend my time in a cozy cottage by the fire than traipsing around a dragon's lair.
